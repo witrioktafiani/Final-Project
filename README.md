@@ -27,3 +27,9 @@ Hal tersebut dapat disimulasikan jika sesuai persamaan yang didapat dari hasil m
 Kesimpulan dari hasil analisis yang telah dilakukan yaitu umur merupakan faktor terbesar penyebab adanya kenaikan absent hours yang menandakan pegawai The Look tidak disciplin. Semakin tua umur employees The Look maka semakin besar juga tingkat absent hours. 
 
 Saran yang dapat disarankan kepada department bersangkutan dan stakeholder yaitu untuk menurunkan range usia maksimal saat recruitment pagawai di bawah usia 30 tahun. Hal tersebut karena mengacu pada tingkat produktivitas sesuai usia, usia muda masih memiliki produktivitas yang baik sedangkan pagawai yang sudah memiliki umur memiliki produktivitas yang kurang baik.  
+
+## Referensi Metodologi
+Adaekalavan, S. (2019). Enhancing The Prediction of Absenteeism By Decision Cluster Based Rule Generation. International Journal of Computer Sciences and Engineering, 7(5), 326–330
+
+Choi, J. W. (2019). Prediction of Workplace Absenteeism Time Using Machine Learning. International Journal of Innovative Technology and Exploring Engineering, 9(2), 3489–3493
+
