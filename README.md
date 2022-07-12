@@ -33,3 +33,15 @@ Adaekalavan, S. (2019). Enhancing The Prediction of Absenteeism By Decision Clus
 
 Choi, J. W. (2019). Prediction of Workplace Absenteeism Time Using Machine Learning. International Journal of Innovative Technology and Exploring Engineering, 9(2), 3489–3493
 
+## Dashboard
+**Dashboard general**
+![Screenshot (215)](https://user-images.githubusercontent.com/109154013/178519180-19bd50c0-c444-4bf5-8798-52e2baf5206c.png)
+
+**Dashboard action cluster 0**
+![Screenshot (216)](https://user-images.githubusercontent.com/109154013/178519265-9956811e-9a0d-4cba-96cb-f2c1e1da253c.png)
+
+**Dashboard action cluster 1**
+![Screenshot (217)](https://user-images.githubusercontent.com/109154013/178519290-7dfb40f7-c3fc-4a95-8542-1b6f7ba885c8.png)
+
+**Dashboard action cluster 2**
+![Screenshot (218)](https://user-images.githubusercontent.com/109154013/178519310-7d34ffd5-9958-4bf3-be86-1367f610374b.png)
